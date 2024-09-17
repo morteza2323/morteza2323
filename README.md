@@ -7,6 +7,7 @@ const Me = {
   Title: "ReactJs developer",
   Firstname: "Morteza",
   Lastname: "Abdolahi",
+  Age: 23,
   pronouns: "He" | "him",
   📍: "Urmia",
   Major: "CE in Urmia university",
